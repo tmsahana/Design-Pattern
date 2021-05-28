@@ -12,7 +12,7 @@ independently
 - Changes to the concrete abstraction classes don’t
 affect the client.
 
-![alt text](Bridge.png)
+![alt text](Bridge.PNG)
 
 ![alt text](Bridge_Design_Pattern_UML.jpg)
 

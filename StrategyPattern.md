@@ -8,7 +8,7 @@ The Strategy Pattern defines a family of algorithms, encapsulates each one, and 
 - Using Composition rather than inheritance
 - Decoupling algorithms from the client(the one uses algorithms) so we can plug and play
 
-![alt text]() ![alt text]()
+![alt text](Strategy_Design_Pattern_UML.jpg) ![alt text]()
 
 ```
 /* Encapsulated family of Algorithms
